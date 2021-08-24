@@ -1,0 +1,13 @@
+name: PackSelector
+version: '${version}'
+main: me.lorenzo0111.packselector.PackSelector
+api-version: 1.13
+authors: [ Lorenzo0111 ]
+description: Give users the ability to select a texture pack.
+commands:
+  pack:
+    description: Select a pack
+    permission: packselector.select
+    aliases:
+      - selectpack
+      - packselector
