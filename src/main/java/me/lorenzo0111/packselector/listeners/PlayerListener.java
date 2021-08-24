@@ -1,5 +1,5 @@
 /*
- *  This file is part of RocketJoin, licensed under the MIT License.
+ *  This file is part of PackSelector, licensed under the MIT License.
  *
  *  Copyright (c) Lorenzo0111
  *
@@ -20,9 +20,7 @@
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
- */
-
-package me.lorenzo0111.packselector.listeners;
+ */package me.lorenzo0111.packselector.listeners;
 
 import me.lorenzo0111.packselector.PackSelector;
 import me.lorenzo0111.packselector.database.PlayersCache;
